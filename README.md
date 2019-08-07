@@ -1,7 +1,7 @@
 # CSC225
 Course work for CSC 225 (term) Algorithms and Data Structures I
 
-Topics include:
+Topics for the course includes:
 
 - Algorithm design techniques, time and space complexity, recurrence relations.
 - Basic data structures such as arrays, linked lists, stacks and queues.
